@@ -1,0 +1,25 @@
+//
+//  PrefixHeader.pch
+//  HappyToday
+//
+//  Created by Ale (ziming) Lee on 16/7/26.
+//  Copyright © 2016年 ziming_lee. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+/****************************************************************/
+/****************************************************************/
+#define KScreenBounds [UIScreen mainScreen].bounds
+#define KScreenW [UIScreen mainScreen].bounds.size.width
+#define KScreenH [UIScreen mainScreen].bounds.size.height
+/****************************************************************/
+/****************************************************************/
+#import "Common.h"
+
+/****************************************************************/
+/****************************************************************/
+
+
+#endif /* PrefixHeader_pch */
